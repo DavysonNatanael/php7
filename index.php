@@ -1,3 +1,3 @@
-<?php
-    echo "Meu primeiro arquivo nas aulas de PHP7 usando o GitHub";
+d<?php
+    echo "Meu primeiro arquivo nas aulas de PHP7 editado no GitHub";
 ?>
